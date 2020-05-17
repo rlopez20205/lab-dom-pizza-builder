@@ -1,0 +1,43 @@
+.box {
+    width: 400px;
+   height: 375px;
+   margin-left: 520px;
+   margin-top: 65px;
+   background-color: orange;
+   padding-left: 30px;
+   border-radius: 20px;
+   
+}
+#height, #weight {
+   width: 150px;
+   height: 25px;
+   margin-top: 30px;
+   text-align: center;
+}
+
+#showResults{
+   font-size: 22px;
+   margin-left: -45px;
+   margin-top: 25px;
+   color: white;
+   text-align: center;
+}
+
+button{
+   width: 160px;
+   height: 40px;
+   margin-left:95px;
+   margin-top: 25px;
+   border-radius: 10px;
+   border-style: none;
+   background-color: white;
+   color: orange;
+   font-size: 30px;
+   text-align: center;
+}
+
+h1{
+   padding-left: 75px;
+   padding-top: 25px;
+   color: white;
+}
